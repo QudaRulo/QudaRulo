@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Static program analysis
 Focus mainly on binary and source code static analysis for IoT security.
 
-## Fuzzinger
+## Fuzzing
 Advanced fuzzing user.
 
 ## Agent orchestration
