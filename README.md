@@ -24,9 +24,9 @@ Advanced fuzzing user.
 ## Agent orchestration
 functon calling &nbsp;&nbsp;&nbsp;  mcp &nbsp;&nbsp;&nbsp;  skills(plugins) &nbsp;&nbsp;&nbsp; ptc 
 
-prompt &nbsp;&nbsp;&nbsp;  context &nbsp;&nbsp;&nbsp; harness &nbsp;&nbsp;&nbsp; memory 
+prompt &nbsp;&nbsp;&nbsp; memory &nbsp;&nbsp;&nbsp; context &nbsp;&nbsp;&nbsp; harness 
 
-selector &nbsp;&nbsp;&nbsp;  swarm  &nbsp;&nbsp;&nbsp; workflow 
+selector &nbsp;&nbsp;&nbsp;  swarm  &nbsp;&nbsp;&nbsp; magentic one  &nbsp;&nbsp;&nbsp; workflow 
 
 rag  &nbsp;&nbsp;&nbsp; file system  &nbsp;&nbsp;&nbsp; model fine-tuning
 
